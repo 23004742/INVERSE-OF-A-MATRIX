@@ -10,7 +10,7 @@ To write a python program to find the inverse of a matrix
 ### Step 3: 
 ### Step 4: 
 
-## Program:                                                                                                                                                                                                                                                                                                                                                                               #Program to find the inverse of a matrix.                                                                                                                                                       ```
+## Program:                                                                                                                                                                                     ```                                                                                                                                                                                          ```
 #Developed by: L.yagnesh kumar reddy
 #RegisterNumber:23004742
 import numpy as np
